@@ -1,2 +1,62 @@
-# smart-q-dashboard
-SMART Q is a modern web application designed to help businesses and institutions manage their customer and patient queues efficiently. It replaces physical waiting lines with a streamlined digital system, allowing users to add, view, and manage appointments and service requests for different sectors.  The application is built as a full-stack project with a user-friendly frontend and is prepared for a powerful Python backend.  Key Features Implemented:  Multi-Sector Support: The dashboard is divided into three core modules:  Hospital: For managing patient appointments.  Restaurant: For handling table reservations.  Bank: For organizing customer service queues.  User Account System: A complete login and signup system that runs in the browser, allowing different users to have their own private data.  Data Management: Users can add new entries (patients, reservations, etc.) through simple forms, and all data is saved.  History & Tracking: A dedicated "History" page where users can view all the records they have created.  Modern, Responsive Interface: The design is clean, attractive, and works well on both desktop and mobile devices.  Technology Used:  Frontend: HTML, Tailwind CSS, and modern JavaScript.  Backend (Prepared for): Python with the Flask framework and a SQLite database.
+# SMART Q - Queue Management Dashboard
+
+SMART Q is a modern web-based queue management system built to streamline customer and patient flow in businesses and institutions. It eliminates physical waiting lines and replaces them with a clean, digital interface where users can add, view, and manage queues across various sectors.
+
+---
+
+## 📑 Table of Contents
+
+- [Features](#features)
+- [Demo](#demo)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+- [Project Structure](#project-structure)
+- [Future Enhancements](#future-enhancements)
+- [Author](#author)
+
+---
+
+## ✨ Features
+
+- 🔁 **Multi-Sector Support**
+  - **🏥 Hospital Module** – Manage patient appointments
+  - **🍽️ Restaurant Module** – Handle table bookings
+  - **🏦 Bank Module** – Organize customer service queues
+
+- 👤 **User Authentication**
+  - Login & Signup system (client-side for now)
+  - Private dashboard for each user
+
+- 📄 **Data Entry & History**
+  - Add new entries via simple forms
+  - View past records on a dedicated **History** page
+
+- 📱 **Responsive UI**
+  - Clean, modern interface using Tailwind CSS
+  - Works smoothly on desktop and mobile devices
+
+---
+
+## 💻 Tech Stack
+
+### Frontend:
+- HTML
+- Tailwind CSS
+- JavaScript
+
+### Backend (Planned):
+- Python
+- Flask
+- SQLite
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository**  
+```bash
+git clone https://github.com/your-username/smart-q-dashboard.git
+cd smart-q-dashboard
+<img width="1470" height="755" alt="Screenshot 2025-08-02 at 3 50 47 PM" src="https://github.com/user-attachments/assets/b306f8b4-3790-4205-b17e-bcfc63e979aa" />
+<img width="1406" height="836" alt="Screenshot 2025-08-02 at 3 50 37 PM" src="https://github.com/user-attachments/assets/5a954db2-95ca-46d2-aff3-fc5452734d71" />
+<img width="954" height="731" alt="Screenshot 2025-08-02 at 3 50 16 PM" src="https://github.com/user-attachments/assets/ff4b5af8-0f61-4961-9def-7f8b6f842122" />
