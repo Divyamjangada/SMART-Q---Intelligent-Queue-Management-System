@@ -56,7 +56,8 @@ SMART Q is a modern web-based queue management system built to streamline custom
 1. **Clone the repository**  
 ```bash
 git clone https://github.com/your-use![Uploading Scr<img width="1180" height="786" alt="Screenshot 2025-09-19 at 7 53 38 PM" src="https://github.com/user-attachments/assets/76bfae12-3fb6-4848-b18a-12517a74e4e6" />
-eenshot 2025-09-19 at 7.54.38 PM.png…]()
+eenshot 2025-09-19 at 7.54.38 PM.png…]()<img width="1190" height="791" alt="Screenshot 2025-09-19 at 7 53 15 PM" src="https://github.com/user-attachments/assets/ab4c465d-5c79-447f-a131-9205c6f52fcd" />
+
 rname/smart-q-dashboard.git
 cd smart-q-dashboard<img width="1180" height="786" alt="Screenshot 2025-09-19 at 7 53 38 PM" src="https://github.com/user-attachments/assets/ce6918c7-e3e0-4d67-96b7-4a9f5b2d7e5c" /><img width="1190" height="791" alt="Screenshot 2025-09-19 at 7 53 15 PM" src="https://github.com/user-attachments/assets/d9032d47-2b51-47aa-88ea-1421c3a94094" />
 
